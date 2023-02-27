@@ -1,0 +1,3 @@
+# ninja log v5
+0	11465	1661825510922366200	/media/zndx/存储库/sjj/lite-transformer-master/fairseq/modules/lightconv_layer/build/temp.linux-x86_64-3.9/lightconv_cuda.o	32b00e9843b3acb9
+3	94520	1661917536648973900	/media/zndx/存储库/sjj/lite-transformer-master/fairseq/modules/lightconv_layer/build/temp.linux-x86_64-3.9/lightconv_cuda_kernel.o	f09ee77f8ca4d804
